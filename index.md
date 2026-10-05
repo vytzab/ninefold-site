@@ -2,7 +2,7 @@
 
 **App:** Ninefold
 **Developer:** Vytautas Zabielskas
-**Contact:** vytautas.zabielskas@gmail.com
+**Contact:** baltibytes@gmail.com
 **Last updated:** 2026-10-04
 
 This policy explains what happens to your information when you use the app. The short version: **the app has no account, collects nothing about you, and everything you play stays on your device.**
@@ -63,4 +63,4 @@ If the app ever starts handling data differently, for example by adding optional
 
 ## Contact
 
-Questions about this policy or your privacy: vytautas.zabielskas@gmail.com.
+Questions about this policy or your privacy: baltibytes@gmail.com .
