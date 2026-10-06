@@ -3,7 +3,7 @@
 **App:** Ninefold
 **Developer:** Vytautas Zabielskas
 **Contact:** baltibytes@gmail.com
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-05
 
 This policy explains what happens to your information when you use the app. The short version: **the app has no account, collects nothing about you, and everything you play stays on your device.**
 
@@ -12,7 +12,7 @@ This policy explains what happens to your information when you use the app. The 
 The app keeps the following **only on your device**:
 
 - **Your game results:** for each game you finish, its score, the levels you reached, how many answers were right, typical response times, and when you played. The app uses these to set the difficulty, pick your daily workout, and show your progress.
-- **Your settings:** sound, vibration, the daily reminder and its time, and whether you have seen the welcome screen.
+- **Your settings:** sound and its volume, vibration, the daily reminder and its time, and whether you have seen the welcome screen.
 - **Whether you have bought Unlimited,** so the app works offline.
 - **How many free plays you have used today,** for the free version's daily limit.
 
@@ -36,6 +36,10 @@ If you have Android backup turned on, Android may include your game results in t
 ## Daily reminder
 
 If you turn on the daily reminder, the app shows a notification on your phone at the time you choose. The reminder is created and shown on the device, with no server involved. You can turn it off in the app's settings or in Android's notification settings.
+
+## Sound and vibration
+
+Sounds play only on your phone, at its media volume, and can be turned off or quietened in the app's settings. The app can vibrate your phone briefly for right and wrong answers and level ups. Android grants this vibration permission when the app is installed; it gives no access to any of your data. You can turn vibration off in the app's settings, and the app also follows your phone's own touch-vibration setting.
 
 ## Information Google Play may collect
 
@@ -63,4 +67,4 @@ If the app ever starts handling data differently, for example by adding optional
 
 ## Contact
 
-Questions about this policy or your privacy: baltibytes@gmail.com .
+Questions about this policy or your privacy: baltibytes@gmail.com.
