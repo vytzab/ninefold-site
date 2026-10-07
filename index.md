@@ -12,6 +12,9 @@ This policy explains what happens to your information when you use the app. The 
 The app keeps the following **only on your device**:
 
 - **Your game results:** for each game you finish, its score, the levels you reached, how many answers were right, typical response times, and when you played. The app uses these to set the difficulty, pick your daily workout, and show your progress.
+- **Your achievements:** which ones you have earned and when, worked out on your device from your game results.
+- **Your versus matches:** for each pass-and-play match you finish, your own score and place, and the game. The other players' names and scores are only shown during the match and are never stored.
+- **Challenges you have played:** which shared puzzles you have started, and your first score on each, so a replay doesn't replace it. A challenge code holds a game, its puzzles and a score, and nothing about you; the app never sends one: you share it yourself, with the app you choose.
 - **Your settings:** sound and its volume, vibration, the daily reminder and its time, and whether you have seen the welcome screen.
 - **Whether you have bought Unlimited,** so the app works offline.
 - **How many free plays you have used today,** for the free version's daily limit.
@@ -31,7 +34,7 @@ The one-time Unlimited purchase is handled by **Google Play**. The app asks Goog
 
 ## Backup to your Google account
 
-If you have Android backup turned on, Android may include your game results in the backup it keeps in your Google account. That way your history can come back on a new phone. This is Android's own backup, stored by Google, and we cannot access it. You can turn backup off, or delete backups, in your phone's settings and your Google account.
+If you have Android backup turned on, Android may include your game results, achievements and versus results in the backup it keeps in your Google account. That way your history can come back on a new phone. This is Android's own backup, stored by Google, and we cannot access it. You can turn backup off, or delete backups, in your phone's settings and your Google account.
 
 ## Daily reminder
 
@@ -53,7 +56,7 @@ More → Send feedback opens your own email app with a message to us. It is pre-
 
 Because your data is only on your device, you control it:
 
-- In the app: **More → Settings → Reset all progress** deletes every result. Each game's progress screen can also delete that game's results.
+- In the app: **More → Settings → Reset all progress** deletes every result. Each game's progress screen can also delete that game's results. Achievements you have earned are kept after a reset; clearing the app's storage or uninstalling deletes them too.
 - Uninstalling the app, or clearing its storage in Android's settings, deletes everything the app stored.
 - To delete a backup, use your phone's backup settings or your Google account.
 
