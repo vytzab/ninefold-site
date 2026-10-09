@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**App:** Ninefold
+**App:** Ninelight
 **Developer:** Vytautas Zabielskas
 **Contact:** baltibytes@gmail.com
 **Last updated:** 2026-10-05
