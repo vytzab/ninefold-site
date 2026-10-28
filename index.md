@@ -3,7 +3,7 @@
 **App:** Ninelight
 **Developer:** Vytautas Zabielskas
 **Contact:** baltibytes@gmail.com
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-28
 
 This policy explains what happens to your information when you use the app. The short version: **the app has no account and collects nothing about you. Everything you play stays on your device, unless you choose to take part in the daily challenge leaderboard, which sends your daily challenge scores under a made-up name.**
 
@@ -58,6 +58,12 @@ The one-time Unlimited purchase is handled by **Google Play**. The app asks Goog
 
 If you have Android backup turned on, Android may include your game results, achievements, versus results and daily challenge tries in the backup it keeps in your Google account. That way your history can come back on a new phone. This is Android's own backup, stored by Google, and we cannot access it. You can turn backup off, or delete backups, in your phone's settings and your Google account.
 
+## Backing up to a file
+
+**More → Settings → Your data → Back up my progress** writes a file with your game results, daily workouts, achievements, versus results, daily challenge tries and settings (sound, vibration, the daily reminder and relaxed timing). It doesn't include your leaderboard key or name, your free plays or your purchase. You choose where the file goes: saved on your phone, or sent with an app you pick (for example Google Drive, email or another phone). The app itself sends it nowhere, and we never receive it unless you send it to us. Anyone you give the file to can read your results in it.
+
+**Restore from a file** reads a file you choose and adds what's in it to the progress on your phone; it deletes nothing. The file is read only on your phone.
+
 ## Daily reminder
 
 If you turn on the daily reminder, the app shows a notification on your phone at the time you choose. The reminder is created and shown on the device, with no server involved. You can turn it off in the app's settings or in Android's notification settings.
@@ -80,7 +86,7 @@ Most of your data is only on your device, and you control it:
 
 - In the app: **More → Settings → Reset all progress** deletes every result. Each game's progress screen can also delete that game's results. Achievements you have earned are kept after a reset; clearing the app's storage or uninstalling deletes them too.
 - Uninstalling the app, or clearing its storage in Android's settings, deletes everything the app stored.
-- To delete a backup, use your phone's backup settings or your Google account.
+- To delete a backup, use your phone's backup settings or your Google account. A backup file you made yourself is yours to delete wherever you saved or sent it.
 - Leaderboard: **More → Settings → Daily challenge leaderboard → Delete my scores** removes your scores and name from the server. Uninstalling the app doesn't do this, as the server can't tell; delete your scores first, or email us your leaderboard name.
 
 ## Children
